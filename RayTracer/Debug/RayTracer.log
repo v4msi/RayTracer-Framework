@@ -1,0 +1,42 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Wall.cpp
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(48,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(49,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.cpp(39,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.cpp(92,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.cpp(93,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.cpp(94,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Scene.cpp
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Sphere.h(14,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Sphere.h(19,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Sphere.h(25,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(24,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(26,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(48,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\primitives\Wall.h(49,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\RayTracer\Vamsi.h(22,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\RayTracer\Vamsi.h(32,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\RayTracer\Vamsi.h(39,8): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(47,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(59,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(69,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(70,39): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(70,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(70,54): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(70,54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(70,69): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(70,69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(71,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(73,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\scene\Scene.cpp(89,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Ray_Tracer.cpp
+  Main.cpp
+  Application.cpp
+  Vamsi.cpp
+  RayTracer.vcxproj -> C:\Users\salee\Desktop\FALL 2020\ACG\Project 2\ray_tracer_kent_p\ray_tracer_kent\RayTracer_Framework\Debug\RayTracer.exe
